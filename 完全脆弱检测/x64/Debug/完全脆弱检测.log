@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/11/22 22:15:30。
+     1>项目“E:\opencvproject\完全脆弱检测\完全脆弱检测\完全脆弱检测.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VisualStudio2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "源.cpp"
+         源.cpp
+     1>源.cpp(34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(81): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(93): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(113): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(156): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(166): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(183): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(226): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>源.cpp(236): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         D:\VisualStudio2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\opencvproject\完全脆弱检测\x64\Debug\完全脆弱检测.exe" /INCREMENTAL /NOLOGO opencv_calib3d340d.lib opencv_core340d.lib opencv_dnn340d.lib opencv_features2d340d.lib opencv_flann340d.lib opencv_highgui340d.lib opencv_imgcodecs340d.lib opencv_imgproc340d.lib opencv_ml340d.lib opencv_objdetect340d.lib opencv_photo340d.lib opencv_shape340d.lib opencv_stitching340d.lib opencv_superres340d.lib opencv_video340d.lib opencv_videoio340d.lib opencv_videostab340d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\opencvproject\完全脆弱检测\x64\Debug\完全脆弱检测.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\opencvproject\完全脆弱检测\x64\Debug\完全脆弱检测.lib" /MACHINE:X64 "x64\Debug\源.obj"
+         完全脆弱检测.vcxproj -> E:\opencvproject\完全脆弱检测\x64\Debug\完全脆弱检测.exe
+     1>已完成生成项目“E:\opencvproject\完全脆弱检测\完全脆弱检测\完全脆弱检测.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.24
